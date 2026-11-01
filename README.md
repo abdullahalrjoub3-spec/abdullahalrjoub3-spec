@@ -53,15 +53,6 @@
 - 📍 Based in Palestine 🇵🇸
 - ⚡ Fun Fact: I love turning creative ideas into real-world applications!
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalrjoub3-spec&show_icons=true&theme=tokyonight" alt="Abdullah GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalrjoub3-spec&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
 
 <h2 align="left">🔥 GitHub Streak:</h2>
 
