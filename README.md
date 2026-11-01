@@ -1,73 +1,127 @@
 
-<h2 align="left">
-  <br>
-  Hi there!
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  <br><br>
-  I'm Abdullah Abd Al-Salam Al-Rjoob 👨‍💻
-  <br>
-  Web Developer | Flutter Developer 🚀
-  <br><br>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500">
-</h2>
+<div align="center">
 
-<h2 align="left">🛠️ Technologies and Tools I Use:</h2>
+# Hi there, I'm Abdullah! 👋
 
-<p align="left">
-  <a href="https://www.w3.org/html/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+### Abdullah Abd Al-Salam Al-Rjoob
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+**💻 Web Developer | 📱 Flutter Developer | 👨‍💻 Programmer**
 
-- 🎓 I'm a student at Palestine Polytechnic University (PPU).
-- 💻 I'm a Web Developer and Flutter Developer.
-- 🌐 I enjoy building modern, responsive, and interactive websites.
-- 📱 Passionate about developing mobile applications using Flutter and Dart.
-- 🔥 Interested in creating useful and user-friendly applications.
-- 🚀 Always learning new technologies and improving my programming skills.
-- 🤝 Open to collaborating on exciting software development projects.
-- 🎯 My goal is to become a professional Software Developer.
-- 📍 Based in Palestine 🇵🇸
-- ⚡ Fun Fact: I love turning creative ideas into real-world applications!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%7C+Flutter+Developer;C%2B%2B+%7C+Java+%7C+Networking;Building+Websites+and+Mobile+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
 
+<br><br>
 
-<h2 align="left">🔥 GitHub Streak:</h2>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Coding Animation"/>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=abdullahalrjoub3-spec&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<br><br>
 
-<h2 align="left">❤️ Let's Get Connected:</h2>
+<img src="https://komarev.com/ghpvc/?username=abdullahalrjoub3-spec&label=Profile+Views&color=9D4EDD&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨🏻‍💻 About Me
+
+- 🎓 Student at **Palestine Polytechnic University (PPU)**
+- 💻 Web Developer & Flutter Developer
+- 👨‍💻 Programming with **C++, Java, JavaScript & Dart**
+- 🌐 Building modern and responsive websites
+- 📱 Developing cross-platform mobile apps using Flutter
+- 🌐 Knowledge of **Computer Networking**
+- 🧠 Interested in problem-solving and software development
+- 🚀 Always learning and improving my technical skills
+- 🤝 Open to collaborating on exciting projects
+- 📍 Based in **Palestine 🇵🇸**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,dart&theme=dark" alt="Programming Languages"/>
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Development"/>
+
+<br><br>
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Mobile Development"/>
+
+<br><br>
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" alt="Development Tools"/>
+
+</div>
+
+---
+
+## 🌐 Computer Networking
+
+- 🌍 Computer Networks Fundamentals
+- 🔗 TCP/IP & OSI Models
+- 📡 Network Protocols
+- 🛜 Routing & Switching Concepts
+- 🔐 Network Security Fundamentals
+
+---
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+| 🌐 Web Development | 📱 Flutter | 💻 Programming |
+|:---:|:---:|:---:|
+| Responsive Websites | Mobile Applications | C++ & Java |
+| Modern UI Design | Flutter & Dart | Problem Solving |
+| Web Technologies | App Development | Computer Networks |
+
+</div>
+
+---
+
+## 🔥 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=abdullahalrjoub3-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
 
 <a href="https://github.com/abdullahalrjoub3-spec">
-  <img src="https://img.shields.io/badge/GitHub-abdullahalrjoub3--spec-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-abdullahalrjoub3--spec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/search/results/people/?keywords=Abdullah%20AL-Rjoub">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20AL--Rjoub-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/abdullah-al-rjoub-b9a000443/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20AL--Rjoub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<h3 align="left">💡 "Code. Create. Innovate. Repeat."</h3>
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Code. Create. Innovate. Repeat.
+
+**Thanks for visiting my profile! 🚀**
+
+🇵🇸 Made with passion in Palestine
+
+</div>
